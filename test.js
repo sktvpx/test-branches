@@ -10,3 +10,6 @@ for (let i = 0; i < xArray.length-1; i++) {
   ctx.ellipse(x, y, 2, 3, 0, 0, Math.PI * 2);
   ctx.fill();
 }
+
+a = 1
+b = 2
